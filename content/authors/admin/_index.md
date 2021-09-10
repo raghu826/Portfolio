@@ -1,7 +1,7 @@
 ---
 title: Raghu Varma Yarakaraju
 role: Master's Student Digital Engineering
-avatar_filename: pic01.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
