@@ -26,13 +26,10 @@ education:
   courses:
     - course: M.Sc. in Digital Engineering
       institution: Bauhaus University
-      year: 2
+      year: ""
     - course: B.Tech in Mechanical Engineering
       institution: Jawaharlal Nehru Technological University
-      year: 3
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      year: ""
 email: ""
 superuser: true
 highlight_name: true
