@@ -20,8 +20,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/raghuvarmayarakaraju/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Bauhaus University Weimar
+    url: https://www.uni-weimar.de/de/universitaet/start/
 education:
   courses:
     - course: M.Sc. in Digital Engineering
