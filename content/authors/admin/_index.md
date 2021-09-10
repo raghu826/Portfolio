@@ -25,7 +25,7 @@ organizations:
 education:
   courses:
     - course: M.Sc. in Digital Engineering
-      institution: Bauhaus University
+      institution: Bauhaus University Weimar
       year: ""
     - course: B.Tech in Mechanical Engineering
       institution: Jawaharlal Nehru Technological University
