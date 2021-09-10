@@ -1,6 +1,6 @@
 ---
 title: Raghu Varma Yarakaraju
-role: M.Sc Digital Engineering
+role: Master's Student Digital Engineering
 avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -30,6 +30,8 @@ education:
     - course: B.Tech in Mechanical Engineering
       institution: Jawaharlal Nehru Technological University
       year: ""
+    - course: Deep Learning Specialization
+      institution: DeepLearning.AI
 email: ""
 superuser: true
 highlight_name: true
